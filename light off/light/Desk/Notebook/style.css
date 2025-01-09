@@ -2,13 +2,7 @@ body {
     background-color:#fff5e9
   }
 
-  
-  p {
-    font-family: verdana;
-    font-size: 40px;
-    color: #fff5e9
-  }
-
+ 
 
 .header h1 {
   margin-top: 100px;
@@ -28,16 +22,15 @@ body {
 }
 
 .button {
-    background-color: #493d2f;
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    font-family: 'Courier New', Courier, monospace;
-    margin: 4px 2px;
-    height: 100px;
-    width: 50%;
+  background-color: #493d2f;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: 'Courier New', Courier, monospace;
+  margin: 4px 4px;
+  margin-bottom: 200px;
   }

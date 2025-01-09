@@ -2,14 +2,6 @@ body {
     background-color:#fff5e9
   }
 
-  
-  p {
-    font-family: verdana;
-    font-size: 40px;
-    color: #fff5e9
-  }
-
-
 .header h1 {
   margin-top: 100px;
   text-align: center;
@@ -37,7 +29,6 @@ body {
     display: inline-block;
     font-size: 16px;
     font-family: 'Courier New', Courier, monospace;
-    margin: 4px 2px;
-    height: 100px;
-    width: 50%;
+    margin: 4px 4px;
+    margin-bottom: 200px;
   }
